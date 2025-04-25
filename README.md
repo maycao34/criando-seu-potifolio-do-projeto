@@ -58,7 +58,7 @@
     <body>
       <header class="container">
         <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
-        <p>Eu sou Fernanda</p>
+        <p>Eu sou carlao </p>
         <h1>Eu ensino Programação</h1>
         <p>
           Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
