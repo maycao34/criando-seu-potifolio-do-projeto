@@ -35,7 +35,7 @@
   <body></body>
 </html>
 <body>
-    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+    <img src="img/avatar-perfil.png" alt="avatar do maycofr " srcset="" />
   </body>
   <body>
     <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
