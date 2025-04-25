@@ -1,15 +1,98 @@
-<!-- código omitido -->
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body></body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Meu portfólio</title>
+  </head>
+  <<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body></body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Meu portfólio</title>
+  </head>
+  <body></body>
+</html>
 <body>
-  <header class="container">
     <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
-    <p>Eu sou Fernanda</p>
+  </body>
+  <body>
+    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+    <p>Eu sou Fernanda_</p>
+    <h1>Eu ensino Programação</h1>
+  </body>
+  <body>
+    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+    <p>Eu sou Fernanda_</p>
     <h1>Eu ensino Programação</h1>
     <p>
       Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
       para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
       computacional usando HTML, CSS e JavaScript. Veja os projetos que já
-      desenvolvi
+      desenvolvi!
     </p>
+  </body>
+  <body>
+    <img src<!-- código omitido -->
+    <body>
+      <header class="container">
+        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+        <p>Eu sou Fernanda</p>
+        <h1>Eu ensino Programação</h1>
+        <p>
+          Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+          para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+          computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+          desenvolvi
+        </p>
+        <p>Minhas habilidades</p>
+        <div>
+          <p>HTML</p>
+          <p>CSS</p>
+          <p>JavaScript</p>
+          <p>Scratch</p>
+        </div>
+      </header>
+    </body>
+    ="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+    <p>Eu sou Fernanda_</p>
+    <h1>Eu ensino Programação</h1>
+    <p>
+      Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+      para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+      computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+      desenvolvi!
+    </p>
+    <p>Minhas habilidades</p>
+  </body>
+  <body>
+    <!-- código omitido -->
+    <p>Minhas habilidades</p>
+    <div></div>
+  </body>
+  <body>
+    <!-- código omitido -->
     <p>Minhas habilidades</p>
     <div>
       <p>HTML</p>
@@ -17,5 +100,307 @@
       <p>JavaScript</p>
       <p>Scratch</p>
     </div>
-  </header>
-</body>
+  </body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"  crossorigin="anonymous"  />
+    <link rel="stylesheet" href="style.css" />
+    <title>Meu portfólio</title>
+  </head>
+  <body>
+    <header class="container">
+      <!-- código omitido -->
+    </header>
+  
+  
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+  <div class="container">
+    <!-- Content here -->
+  </div>
+  <div class="container text-center">
+    <div class="row align-items-start">
+      <div class="col">One of three columns</div>
+      <div class="col">One of three columns</div>
+      <div class="col">One of three columns</div>
+    </div>
+  </div>
+  <!-- código omitido -->
+<body>
+    <header class="container">
+      <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+      <p>Eu sou Fernanda</p>
+      <h1>Eu ensino Programação</h1>
+      <p>
+        Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+        para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+        computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+        desenvolvi
+      </p>
+      <p>Minhas habilidades</p>
+      <div>
+        <p>HTML</p>
+        <p>CSS</p>
+        <p>JavaScript</p>
+        <p>Scratch</p>
+      </div>
+    </header>
+  </body>body></body>
+</html>
+<body>
+    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+  </body>
+  <body>
+    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+    <p>Eu sou Fernanda_</p>
+    <h1>Eu ensino Programação</h1>
+  </body>
+  <body>
+    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+    <p>Eu sou Fernanda_</p>
+    <h1>Eu ensino Programação</h1>
+    <p>
+      Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+      para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+      computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+      desenvolvi!
+    </p>
+  </body>
+  <body>
+    <img src<!-- código omitido -->
+    <body>
+   <!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body></body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Meu portfólio</title>
+  </head>
+  <body></body>
+</html>
+<body>
+    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+  </body>
+  <body>
+    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+    <p>Eu sou Fernanda_</p>
+    <h1>Eu ensino Programação</h1>
+  </body>
+  <body>
+    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+    <p>Eu sou Fernanda_</p>
+    <h1>Eu ensino Programação</h1>
+    <p>
+      Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+      para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+      computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+      desenvolvi!
+    </p>
+  </body>
+  <body>
+    <img src<!-- código omitido -->
+    <body>
+      <header class="container">
+        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+        <p>Eu sou Fernanda</p>
+        <h1>Eu ensino Programação</h1>
+        <p>
+          Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+          para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+          computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+          desenvolvi
+        </p>
+        <p>Minhas habilidades</p>
+        <div>
+          <p>HTML</p>
+          <p>CSS</p>
+          <p>JavaScript</p>
+          <p>Scratch</p>
+        </div>
+      </header>
+    </body>
+    ="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+    <p>Eu sou Fernanda_</p>
+    <h1>Eu ensino Programação</h1>
+    <p>
+      Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+      para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+      computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+      desenvolvi!
+    </p>
+    <p>Minhas habilidades</p>
+  </body>
+  <body>
+    <!-- código omitido -->
+    <p>Minhas habilidades</p>
+    <div></div>
+  </body>
+  <body>
+    <!-- código omitido -->
+    <p>Minhas habilidades</p>
+    <div>
+      <p>HTML</p>
+      <p>CSS</p>
+      <p>JavaScript</p>
+      <p>Scratch</p>
+    </div>
+  </body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"  crossorigin="anonymous"  />
+    <link rel="stylesheet" href="style.css" />
+    <title>Meu portfólio</title>
+  </head>
+  <body>
+    <header class="container">
+      <!-- código omitido -->
+    </header>
+  
+  
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+  <div class="container">
+    <!-- Content here -->
+  </div>
+  <div class="container text-center">
+    <div class="row align-items-start">
+      <div class="col">One of three columns</div>
+      <div class="col">One of three columns</div>
+      <div class="col">One of three columns</div>
+    </div>
+  </div>
+  <!-- código omitido -->
+<body>
+    <header class="container">
+      <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+      <p>Eu sou Fernanda</p>
+      <h1>Eu ensino Programação</h1>
+      <p>
+        Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+        para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+        computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+        desenvolvi
+      </p>
+      <p>Minhas habilidades</p>
+      <div>
+        <p>HTML</p>
+        <p>CSS</p>
+        <p>JavaScript</p>
+        <p>Scratch</p>
+      </div>
+    </header>
+  </body>   <header class="container">
+        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+        <p>Eu sou Fernanda</p>
+        <h1>Eu ensino Programação</h1>
+        <p>
+          Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+          para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+          computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+          desenvolvi
+        </p>
+        <p>Minhas habilidades</p>
+        <div>
+          <p>HTML</p>
+          <p>CSS</p>
+          <p>JavaScript</p>
+          <p>Scratch</p>
+        </div>
+      </header>
+    </body>
+    ="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+    <p>Eu sou Fernanda_</p>
+    <h1>Eu ensino Programação</h1>
+    <p>
+      Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+      para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+      computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+      desenvolvi!
+    </p>
+    <p>Minhas habilidades</p>
+  </body>
+  <body>
+    <!-- código omitido -->
+    <p>Minhas habilidades</p>
+    <div></div>
+  </body>
+  <body>
+    <!-- código omitido -->
+    <p>Minhas habilidades</p>
+    <div>
+      <p>HTML</p>
+      <p>CSS</p>
+      <p>JavaScript</p>
+      <p>Scratch</p>
+    </div>
+  </body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"  crossorigin="anonymous"  />
+    <link rel="stylesheet" href="style.css" />
+    <title>Meu portfólio</title>
+  </head>
+  <body>
+    <header class="container">
+      <!-- código omitido -->
+    </header>
+  
+  
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+  <div class="container">
+    <!-- Content here -->
+  </div>
+  <div class="container text-center">
+    <div class="row align-items-start">
+      <div class="col">One of three columns</div>
+      <div class="col">One of three columns</div>
+      <div class="col">One of three columns</div>
+    </div>
+  </div>
+  <!-- código omitido -->
+<body>
+    <header class="container">
+      <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+      <p>Eu sou Fernanda</p>
+      <h1>Eu ensino Programação</h1>
+      <p>
+        Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+        para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+        computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+        desenvolvi
+      </p>
+      <p>Minhas habilidades</p>
+      <div>
+        <p>HTML</p>
+        <p>CSS</p>
+        <p>JavaScript</p>
+        <p>Scratch</p>
+      </div>
+    </header>
+  </body>
