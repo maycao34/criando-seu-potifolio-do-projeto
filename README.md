@@ -35,22 +35,20 @@
   <body></body>
 </html>
 <body>
-    <img src="img/avatar-perfil.png" alt="avatar do maycofr " srcset="" />
+    <img src="img/avatar-perfil.png" alt="avatar do maycon " srcset="" />
   </body>
   <body>
-    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
-    <p>Eu sou Fernanda_</p>
-    <h1>Eu ensino Programação</h1>
+    <img src="img/avatar-perfil.png" alt="avatar do maycon" srcset="" />
+    <p>Eu sou maycon_</p>
+    <h1>Eu aprendo mecanica</h1>
   </body>
   <body>
-    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
-    <p>Eu sou Fernanda_</p>
+    <img src="img/avatar-perfil.png" alt="avatar do maycon" srcset="" />
+    <p>Eu sou maycon_</p>
     <h1>Eu ensino Programação</h1>
     <p>
       Sou mecanico de carros e caminhão tambem . estudo e faço curso de mecanico
-      completei o Ensino Fundamental e Médio. Ensino sobre pensamento
-      computacional usando HTML, CSS e JavaScript. Veja os projetos que já
-      desenvolvi!
+      completei o Ensino Fundamental e Médio.
     </p>
   </body>
   <body>
