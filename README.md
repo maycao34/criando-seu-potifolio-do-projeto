@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+                      ddddddddddddddfddhsfvgssdffffffghlkjhgf   432534=-098765432345667777788890-===-098765555531<!DOCTYPE html>
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
@@ -47,8 +47,8 @@
     <p>Eu sou Fernanda_</p>
     <h1>Eu ensino Programação</h1>
     <p>
-      Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
-      para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+      Sou mecanico de carros e caminhão tambem . estudo e faço curso de mecanico
+      completei o Ensino Fundamental e Médio. Ensino sobre pensamento
       computacional usando HTML, CSS e JavaScript. Veja os projetos que já
       desenvolvi!
     </p>
